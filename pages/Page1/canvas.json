@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 63,
+          "version": 64,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -154,7 +154,7 @@
                   "key": "childStylesheet.editActions.discardBorderRadius"
                 }
               ],
-              "leftColumn": 57,
+              "leftColumn": 45,
               "delimiter": ",",
               "defaultSelectedRowIndex": 0,
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -452,7 +452,7 @@
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 37,
+              "leftColumn": 25,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -469,7 +469,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 57,
+              "rightColumn": 45,
               "widgetId": "vb4ctrpxto",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -994,7 +994,7 @@
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 13,
+              "leftColumn": 1,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1175,7 +1175,7 @@
               "key": "dms3rv6rkg",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 37,
+              "rightColumn": 25,
               "widgetId": "3wd8z1ilik",
               "containerStyle": "card",
               "isVisible": false,
@@ -1199,6 +1199,7 @@
             }
           ]
         ],
+        "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
         "deleted": false,
