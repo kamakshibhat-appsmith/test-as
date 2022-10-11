@@ -13,7 +13,9 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
+
           "bottomRow": 810,
+
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -25,9 +27,12 @@
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
+
           "children": []
         },
         "layoutOnLoadActions": [],
+
+               
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
