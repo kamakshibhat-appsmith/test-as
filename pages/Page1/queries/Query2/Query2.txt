@@ -1,0 +1,1 @@
+SELECT * FROM users where name LIKE '%{{Table3.searchText}}%' ORDER BY id LIMIT {{Table3.pageSize}} OFFSET {{(Table3.pageNo-1)*Table3.pageSize}};
